@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+Backend/node_modules/
+Frontend/node_modules/
+
+# Secrets (kabhi upload mat karo)
+.env
+Backend/.env
+Frontend/.env
+
+# Build files
+dist/
+build/
+
+# Logs aur system files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
